@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61829" started-at="2020-11-08T19:56:51 IST" finished-at="2020-11-08T19:57:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61829" started-at="2020-11-08T19:56:51 IST" finished-at="2020-11-08T19:57:53 IST">
+      <class name="DemoMobileTest.MobileTesting">
+        <test-method status="PASS" signature="testSetupCapabilites()[pri:0, instance:DemoMobileTest.MobileTesting@1f57539]" name="testSetupCapabilites" is-config="true" duration-ms="34503" started-at="2020-11-08T19:56:51 IST" finished-at="2020-11-08T19:57:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetupCapabilites -->
+        <test-method status="PASS" signature="verifySort()[pri:0, instance:DemoMobileTest.MobileTesting@1f57539]" name="verifySort" duration-ms="24289" started-at="2020-11-08T19:57:26 IST" finished-at="2020-11-08T19:57:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySort -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DemoMobileTest.MobileTesting@1f57539]" name="tearDown" is-config="true" duration-ms="2956" started-at="2020-11-08T19:57:50 IST" finished-at="2020-11-08T19:57:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DemoMobileTest.MobileTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
